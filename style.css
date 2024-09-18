@@ -63,3 +63,9 @@ ul{
     padding: 20px;
     flex: 1;
 }
+
+.subtitulo{
+    font-family: Arial;
+    color: orangered;
+    text-align: center;
+}
